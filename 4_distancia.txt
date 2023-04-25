@@ -1,0 +1,5 @@
+É importante entender que quando os veículos se cruzam na rodovia, eles estarão no mesmo ponto, ou seja, à mesma distância de Ribeirão Preto. Isso ocorre independentemente da velocidade de cada veículo e da distância percorrida até o ponto de encontro.
+
+Para entender isso, imagine uma linha reta que representa a rodovia, onde um extremo é Ribeirão Preto e o outro é Franca, e o ponto de cruzamento é o ponto médio dessa linha. Quando os veículos se encontram, eles estarão no mesmo ponto desse ponto médio, o que significa que estarão à mesma distância de Ribeirão Preto.
+
+É importante ressaltar que no momento do cruzamento, o carro estará mais próximo de Franca e o caminhão mais próximo de Ribeirão Preto, já que o carro tem uma velocidade maior. No entanto, quando eles se cruzarem, estarão à mesma distância de Ribeirão Preto.
